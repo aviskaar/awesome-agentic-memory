@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aviskaar/awesome-agentic-memory/main/assets/banner.png" alt="Awesome Agentic Memory" width="100%" />
-
 # Awesome Agentic Memory
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
