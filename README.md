@@ -80,6 +80,7 @@ The field has exploded in 2024–2026: from research papers to funded startups t
 | [LangMem](#langchain--langmem) | bundled | semantic + episodic + procedural | LangGraph Store | ✅ | LangChain/LangGraph agents |
 | [Supermemory](#supermemory) | growing | vector + full-text | cloud/local | ✅ | Universal cross-LLM memory |
 | [OMEGA](#omega-memory) | growing | structured + semantic | SQLite | ✅ (25 tools) | Coding agents |
+| [Tree Ring Memory](#tree-ring-memory) | ~2 | lifecycle rings + scars + heartwood | SQLite/FTS | ❌ | Local-first agent memory lifecycle |
 | [Hindsight](#hindsight) | growing | 4-network biomimetic | custom | ❌ | High-accuracy retrieval |
 | [A-MEM](#a-mem) | growing | Zettelkasten + dynamic | ChromaDB | ❌ | Interconnected knowledge nets |
 | [claude-mem](#claude-mem) | growing | conversation + semantic | SQLite | ✅ (Claude Code) | Claude Code sessions |
@@ -213,6 +214,18 @@ results = await cognee.search("Tell me about Alice")
 - **GitHub**: https://github.com/omega-memory/omega-memory
 - **MCP Tools**: 25 tools including memory capture, search, consolidation, timeline
 - **Backend**: SQLite (fully local)
+
+---
+
+### Tree Ring Memory
+
+[![GitHub Stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=flat-square)](https://github.com/TerminallyLazy/Tree-Ring-Memory)
+
+> Framework-agnostic, local-first memory lifecycle layer for AI agents. Fresh memories stay detailed, older memories compress into rings, important scars remain visible, and durable truths become heartwood.
+
+- **GitHub**: https://github.com/TerminallyLazy/Tree-Ring-Memory
+- **Runtime**: Rust-native CLI with SQLite/FTS storage, recall, forgetting, audit, consolidation, maintenance, import/export, and TUI.
+- **Agent integration**: Generates portable `.tree-ring` guidance files and bridge instructions for Codex/Gemini-style skills, Claude Code, OpenCode/AGENTS.md workflows, and DOX/Revolve adapters.
 
 ---
 
