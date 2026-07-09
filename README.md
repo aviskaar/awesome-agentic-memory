@@ -612,6 +612,7 @@ Memory tools specifically designed for AI coding assistants and developer workfl
 | [claude_memory](https://github.com/codenamev/claude_memory) | 8 | SQLite + FTS5 + sqlite-vec; fact extraction + truth maintenance; SessionStart/Stop hooks | MCP |
 | [mcp-memory-keeper](https://github.com/mkreyman/mcp-memory-keeper) | growing | Persistent context across sessions; preserves work history and decisions | MCP |
 | [claude-memory-mcp](https://github.com/WhenMoon-afk/claude-memory-mcp) | growing | TypeScript + SQLite + FTS5; minimal deps; optimal LLM memory techniques | MCP |
+| [context-memory](https://github.com/SlovaApplications/claude-plugins) | growing | Hosted MCP + hooks; auto-captures decisions/gotchas/dead-ends, recalls at session start + on every prompt, ranked by proven usefulness; OpenSearch kNN+BM25 | `/plugin install context-memory@slova` |
 | [my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) | ~1.8k | Starter with `CLAUDE-*.md` memory bank; `/init` populates from codebase | CLAUDE.md |
 | [mem0 MCP](https://github.com/mem0ai/mem0-mcp) | growing | mem0 universal memory + OpenMemory local-first UI | `claude mcp add mem0` |
 | [Graphiti MCP](https://github.com/getzep/graphiti) | ~24k | Temporal knowledge graph | Docker + config |
