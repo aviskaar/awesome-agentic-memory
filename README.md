@@ -642,6 +642,7 @@ Memory tools specifically designed for AI coding assistants and developer workfl
 | [opencode-agent-memory](https://github.com/joshuadavidthomas/opencode-agent-memory) | Letta/MemGPT-inspired; scoped memory blocks with size limits; agent actively maintains own memory |
 | [opencode-brain](https://github.com/deiviuds/opencode-brain) | Port of claude-brain; single `.mv2` portable file; shares memory with Claude Code |
 | [opencode-plugin-simple-memory](https://github.com/cnicolov/opencode-plugin-simple-memory) | Lightweight; memories stored as daily logfmt files in `.opencode/memory/` |
+| [opencode-mempalace-persistence](https://github.com/geco/opencode-mempalace-persistence) | MemPalace-backed; auto-saves every turn, per-prompt recall, checkpoints + pre-compact rescue |
 
 **Awesome list:** [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
 
