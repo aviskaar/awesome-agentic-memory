@@ -1404,6 +1404,7 @@ Memory requirements differ dramatically by domain. This section covers how agent
 - [Letta Academy](https://letta.com/academy) — Agent stateful memory course
 - [Graphiti Tutorial](https://github.com/getzep/graphiti/tree/main/examples) — Temporal KG examples
 - [MCP Memory Guide](https://modelcontextprotocol.io/docs/guides/memory) — Official MCP memory documentation
+- [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) - Local memory-poisoning exercises with synthetic cases, a scripted agent and visible limits of provenance-aware repair.
 
 ### Courses & Videos
 
