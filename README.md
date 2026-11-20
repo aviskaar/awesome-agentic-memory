@@ -88,7 +88,7 @@ The field has exploded in 2024–2026: from research papers to funded startups t
 
 ## 🗄️ Memory Frameworks & Libraries
 
-- [Loom](https://github.com/ClickHouse/loom) — Agent memory with [LlamaIndex retrieval and memory blocks](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#llamaindex), [OpenAI Agents tools and sessions](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#openai-agents-sdk) and [Vercel AI SDK tools](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#ai-sdk).
+- [Loom](https://github.com/ClickHouse/loom) — Agent memory with [LlamaIndex retrieval and memory blocks](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#llamaindex), [OpenAI Agents tools and sessions](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#openai-agents-sdk), [Vercel AI SDK tools](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#ai-sdk), and [Pipecat text memory](https://github.com/ClickHouse/loom/blob/e50ca4a235d7b8329193ca46f28fda2653cfefc0/sdk/python/examples/pipecat/README.md).
 
 ### mem0
 
