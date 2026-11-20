@@ -88,7 +88,7 @@ The field has exploded in 2024–2026: from research papers to funded startups t
 
 ## 🗄️ Memory Frameworks & Libraries
 
-- [Loom](https://github.com/ClickHouse/loom) — Agent memory service with native [LlamaIndex retrieval and memory blocks](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#llamaindex) and [OpenAI Agents tools and sessions](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#openai-agents-sdk).
+- [Loom](https://github.com/ClickHouse/loom) — Agent memory with [LlamaIndex retrieval and memory blocks](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#llamaindex), [OpenAI Agents tools and sessions](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#openai-agents-sdk) and [Vercel AI SDK tools](https://github.com/ClickHouse/loom/blob/08eeb3d82c0c2176cdb3c103db4505565a60788c/docs/features/integrations/frameworks.md#ai-sdk).
 
 ### mem0
 
